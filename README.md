@@ -1,0 +1,1 @@
+This inventory system is for retailers to be able to store their inventory in a simple and digital manner. Users will be able to conveniently add a new item in their inventory, update certain fields of that item, and delete an item in the inventory. The inventory list will also be shown for users to view and keep track of. Our project's database is stored in a file.(table.txt)
