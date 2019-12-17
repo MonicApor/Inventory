@@ -1,0 +1,11 @@
+Item ID , Item Name , Item Brand , Item Price 
+1	/ KEYBOARD  / ASUS	 / 500.00     
+2	/ LAPTOP    / ASUS	 / 50000.00   
+3	/ NETBOOK   / LENOVO	 / 2000.00    
+4	/ MOUSE     / HP	 / 100.00     
+5	/ FLASHDRIVE/ SANDISK	 / 2500.00    
+6	/ PRINTER   / HP	 / 34000.00   
+7	/ MOUSE PAD / DELL	 / 100.00     
+8	/ DESKTOP   / DELL	 / 45000.00   
+9	/ MONITOR   / HP	 / 10000.00  
+10	/ SMART TV  / SAMSUNG	 / 64000.00  
